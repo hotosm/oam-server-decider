@@ -5,7 +5,6 @@ all: decider
 decider:
 	@docker build -f ./Dockerfile -t $(DOCKER_IMAGE) .
 
-
 start: decider
 	@docker run \
 		--name oam-server-decider \
