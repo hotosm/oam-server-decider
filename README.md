@@ -1,3 +1,7 @@
+# __NOTE__
+
+The SWF approach to OAM Server did not work out, so this code is not being used. There's some great stuff here though, so feel free to pull code and components from it. Also, the local tiler using `swfr` works well.
+
 # OpenAerialMap Server: Decider component
 
 [![Circle CI](https://circleci.com/gh/hotosm/oam-server-decider/tree/master.svg?style=svg)](https://circleci.com/gh/hotosm/oam-server-decider/tree/master)
